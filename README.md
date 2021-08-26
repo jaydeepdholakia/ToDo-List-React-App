@@ -2,7 +2,7 @@
 
 A simple todo react app which I made for learning React, for being able to build frontend for my Dapps.
 
-Deployed at: [coming soon]
+Deployed at: [Here](https://holy-bread-0915.on.fleek.co/) | On decentralized storage IPFS ([Fleek](https://fleek.co/))
   
 
 ## Available Scripts
